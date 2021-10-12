@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Caillou Kang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**106 Maestro**"
   location         : "대한민국, 경기도"
   email            : "sinu.caillou@gmail.com"
