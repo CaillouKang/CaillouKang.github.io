@@ -3,6 +3,7 @@ layout: single
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: “나의_미래”
 title:  "Welcome to my blog!"
 ---
 
