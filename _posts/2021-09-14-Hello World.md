@@ -1,5 +1,8 @@
 ---
 layout: single
+toc: true
+toc_sticky: true
+toc_label: "페이지 주요 목차"
 title:  "Welcome to my blog!"
 ---
 
